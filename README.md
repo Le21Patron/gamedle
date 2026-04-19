@@ -14,3 +14,8 @@ Gamedle is an Android game application developed using Kotlin and Jetpack Compos
 
 ## Author
 Safa Şentürk
+
+## Screenshots
+
+![Home Screen](home.png)
+![Game Screen](game.png)
