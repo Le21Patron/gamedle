@@ -1,0 +1,1502 @@
+{
+  "gameId": "mlbb",
+  "gameName": "Mobile Legends: Bang Bang",
+  "attributesToCompare": [
+    "Cinsiyet",
+    "Rol",
+    "Uzmanlık",
+    "Koridor",
+    "Çıkış Yılı",
+    "Saldırı Tipi"
+  ],
+  "entities": [
+    {
+      "name": "Aamon",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Aamon.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Suikastçı",
+        "Uzmanlık": "Anlık Hasar|Büyü Hasarı",
+        "Koridor": "Orman",
+        "Çıkış Yılı": "2021",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Akai",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Akai.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank",
+        "Uzmanlık": "Koruma|Kitle Kontrol",
+        "Koridor": "Dolaşım",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Aldous",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Aldous.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü",
+        "Uzmanlık": "Anlık Hasar",
+        "Koridor": "EXP",
+        "Çıkış Yılı": "2018",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Alice",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Alice.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü|Tank",
+        "Uzmanlık": "Yenilenme|Takip",
+        "Koridor": "EXP|Dolaşım",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Alpha",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Alpha.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü",
+        "Uzmanlık": "Anlık Hasar|Hücum",
+        "Koridor": "Orman|EXP",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Alucard",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Alucard.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Suikastçı",
+        "Uzmanlık": "Takip|Anlık Hasar",
+        "Koridor": "Orman|EXP",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Angela",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Angela.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Destek",
+        "Uzmanlık": "Koruma|Yenilenme",
+        "Koridor": "Dolaşım",
+        "Çıkış Yılı": "2018",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Argus",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Argus.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü",
+        "Uzmanlık": "Takip|Anlık Hasar",
+        "Koridor": "EXP",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Arlott",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Arlott.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü",
+        "Uzmanlık": "Kitle Kontrol|Anlık Hasar",
+        "Koridor": "EXP|Dolaşım",
+        "Çıkış Yılı": "2023",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Atlas",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Atlas.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Destek",
+        "Uzmanlık": "Kitle Kontrol|Başlatıcı",
+        "Koridor": "Dolaşım",
+        "Çıkış Yılı": "2020",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Aulus",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Aulus.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü",
+        "Uzmanlık": "Takip|Hasar",
+        "Koridor": "Orman",
+        "Çıkış Yılı": "2021",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Aurora",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Aurora.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü",
+        "Uzmanlık": "Anlık Hasar|Kitle Kontrol",
+        "Koridor": "Orta",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Badang",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Badang.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü",
+        "Uzmanlık": "Anlık Hasar|Kitle Kontrol",
+        "Koridor": "EXP",
+        "Çıkış Yılı": "2019",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Balmond",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Balmond.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü",
+        "Uzmanlık": "Hasar|Yenilenme",
+        "Koridor": "Orman|EXP",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Bane",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Bane.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Büyücü",
+        "Uzmanlık": "İttirme|Karma Hasar",
+        "Koridor": "Orman",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Barats",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Barats.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Dövüşçü",
+        "Uzmanlık": "Hasar|Kitle Kontrol",
+        "Koridor": "Orman",
+        "Çıkış Yılı": "2020",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Baxia",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Baxia.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank",
+        "Uzmanlık": "Başlatıcı|Kitle Kontrol",
+        "Koridor": "Dolaşım",
+        "Çıkış Yılı": "2019",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Beatrix",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/5/5e/Beatrix.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı",
+        "Uzmanlık": "Hasar|Takip",
+        "Koridor": "Alt",
+        "Çıkış Yılı": "2021",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Belerick",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Belerick.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank",
+        "Uzmanlık": "Koruma|Yenilenme",
+        "Koridor": "Dolaşım",
+        "Çıkış Yılı": "2018",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Benedetta",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Benedetta.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Suikastçı|Dövüşçü",
+        "Uzmanlık": "Anlık Hasar|Takip",
+        "Koridor": "Orman|EXP",
+        "Çıkış Yılı": "2020",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Brody",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Brody.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Nişancı",
+        "Uzmanlık": "Anlık Hasar|Takip",
+        "Koridor": "Alt",
+        "Çıkış Yılı": "2020",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Bruno",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Bruno.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Nişancı",
+        "Uzmanlık": "Anlık Hasar|Hasar",
+        "Koridor": "Alt|Orman",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Carmilla",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Carmilla.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Destek|Tank",
+        "Uzmanlık": "Kitle Kontrol|Hasar",
+        "Koridor": "Dolaşım",
+        "Çıkış Yılı": "2019",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Cecilion",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Cecilion.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü",
+        "Uzmanlık": "Anlık Hasar|Dürtme",
+        "Koridor": "Orta",
+        "Çıkış Yılı": "2020",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Chang'e",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Chang'e.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü",
+        "Uzmanlık": "Dürtme|Hasar",
+        "Koridor": "Orta",
+        "Çıkış Yılı": "2018",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Chip",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Chip.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Destek",
+        "Uzmanlık": "Koruma|Başlatıcı",
+        "Koridor": "Dolaşım",
+        "Çıkış Yılı": "2024",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Chou",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Chou.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Suikastçı",
+        "Uzmanlık": "Takip|Anlık Hasar",
+        "Koridor": "EXP|Dolaşım|Orman",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Cici",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Cici.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Dövüşçü",
+        "Uzmanlık": "Yenilenme|Hasar",
+        "Koridor": "EXP|Orman",
+        "Çıkış Yılı": "2023",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Claude",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Claude.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Nişancı",
+        "Uzmanlık": "Takip|Hasar",
+        "Koridor": "Alt|Orman",
+        "Çıkış Yılı": "2018",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Clint",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Clint.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Nişancı",
+        "Uzmanlık": "Dürtme|Hasar",
+        "Koridor": "Alt|Orman",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Cyclops",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Cyclops.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü",
+        "Uzmanlık": "Anlık Hasar|Hasar",
+        "Koridor": "Orta|Orman",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Diggie",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Diggie.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Destek",
+        "Uzmanlık": "Kitle Kontrol|Koruma",
+        "Koridor": "Dolaşım",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Dyrroth",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/87/Dyrroth.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü",
+        "Uzmanlık": "Hücum|Anlık Hasar",
+        "Koridor": "EXP|Orman",
+        "Çıkış Yılı": "2019",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Edith",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Edith.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Tank|Nişancı",
+        "Uzmanlık": "Kitle Kontrol|Anlık Hasar",
+        "Koridor": "Dolaşım|EXP",
+        "Çıkış Yılı": "2021",
+        "Saldırı Tipi": "Yakın Dövüş|Menzilli"
+      }
+    },
+    {
+      "name": "Esmeralda",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Esmeralda.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Tank|Büyücü",
+        "Uzmanlık": "Yenilenme|Karma Hasar",
+        "Koridor": "EXP|Dolaşım",
+        "Çıkış Yılı": "2019",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Estes",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c9/Estes.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Destek",
+        "Uzmanlık": "Yenilenme|Koruma",
+        "Koridor": "Dolaşım",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Eudora",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Eudora.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü",
+        "Uzmanlık": "Anlık Hasar|Kitle Kontrol",
+        "Koridor": "Orta",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Fanny",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Fanny.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Suikastçı",
+        "Uzmanlık": "Takip|Anlık Hasar",
+        "Koridor": "Orman",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Faramis",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Faramis.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Destek|Büyücü",
+        "Uzmanlık": "Koruma|Başlatıcı",
+        "Koridor": "Dolaşım|Orta",
+        "Çıkış Yılı": "2019",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Floryn",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Floryn.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Destek",
+        "Uzmanlık": "Yenilenme|Koruma",
+        "Koridor": "Dolaşım",
+        "Çıkış Yılı": "2021",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Franco",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Franco.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Destek",
+        "Uzmanlık": "Başlatıcı|Kitle Kontrol",
+        "Koridor": "Dolaşım",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Fredrinn",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Fredrinn.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Dövüşçü",
+        "Uzmanlık": "Yenilenme|Hasar",
+        "Koridor": "EXP|Orman|Dolaşım",
+        "Çıkış Yılı": "2022",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Freya",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Freya.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Dövüşçü",
+        "Uzmanlık": "Takip|Anlık Hasar",
+        "Koridor": "EXP|Orman",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Gatotkaca",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Gatotkaca.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Dövüşçü",
+        "Uzmanlık": "Başlatıcı|Kitle Kontrol",
+        "Koridor": "EXP|Dolaşım",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Gloo",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Gloo.png",
+      "attributes": {
+        "Cinsiyet": "Diğer",
+        "Rol": "Tank",
+        "Uzmanlık": "Yenilenme|Kitle Kontrol",
+        "Koridor": "EXP|Dolaşım",
+        "Çıkış Yılı": "2021",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Gord",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Gord.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü",
+        "Uzmanlık": "Dürtme|Anlık Hasar",
+        "Koridor": "Orta",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Granger",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Granger.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Nişancı",
+        "Uzmanlık": "Anlık Hasar|Takip",
+        "Koridor": "Orman|Alt",
+        "Çıkış Yılı": "2019",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Grock",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Grock.png",
+      "attributes": {
+        "Cinsiyet": "Diğer",
+        "Rol": "Tank|Dövüşçü",
+        "Uzmanlık": "Başlatıcı|Koruma",
+        "Koridor": "Dolaşım|EXP",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Guinevere",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Guinevere.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Dövüşçü|Büyücü",
+        "Uzmanlık": "Anlık Hasar|Takip",
+        "Koridor": "EXP|Orman",
+        "Çıkış Yılı": "2019",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Gusion",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Gusion.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Suikastçı|Büyücü",
+        "Uzmanlık": "Anlık Hasar|Takip",
+        "Koridor": "Orman",
+        "Çıkış Yılı": "2018",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Hanabi",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hanabi.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı",
+        "Uzmanlık": "Yenilenme|Hasar",
+        "Koridor": "Alt",
+        "Çıkış Yılı": "2018",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Hanzo",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hanzo.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Suikastçı",
+        "Uzmanlık": "Anlık Hasar|Takip",
+        "Koridor": "Orman",
+        "Çıkış Yılı": "2018",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Harith",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Harith.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü",
+        "Uzmanlık": "Takip|Hasar",
+        "Koridor": "Orta|Orman",
+        "Çıkış Yılı": "2018",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Harley",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Harley.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü|Suikastçı",
+        "Uzmanlık": "Anlık Hasar|Takip",
+        "Koridor": "Orman|Orta",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Hayabusa",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hayabusa.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Suikastçı",
+        "Uzmanlık": "Takip|Anlık Hasar",
+        "Koridor": "Orman|EXP",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Helcurt",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Helcurt.png",
+      "attributes": {
+        "Cinsiyet": "Diğer",
+        "Rol": "Suikastçı",
+        "Uzmanlık": "Anlık Hasar|İttirme",
+        "Koridor": "Orman",
+        "Çıkış Yılı": "2018",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Hilda",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hilda.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Dövüşçü|Tank",
+        "Uzmanlık": "Yenilenme|Hasar",
+        "Koridor": "EXP|Dolaşım",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Hylos",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hylos.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank",
+        "Uzmanlık": "Koruma|Başlatıcı",
+        "Koridor": "Dolaşım",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Irithel",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Irithel.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı",
+        "Uzmanlık": "Anlık Hasar|Takip",
+        "Koridor": "Alt|Orman",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Ixia",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Ixia.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı",
+        "Uzmanlık": "Hasar|Yenilenme",
+        "Koridor": "Alt",
+        "Çıkış Yılı": "2023",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Jawhead",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Jawhead.png",
+      "attributes": {
+        "Cinsiyet": "Diğer",
+        "Rol": "Dövüşçü|Tank",
+        "Uzmanlık": "Hücum|Başlatıcı",
+        "Koridor": "EXP|Dolaşım|Orman",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Johnson",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Johnson.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank",
+        "Uzmanlık": "Kitle Kontrol|Başlatıcı",
+        "Koridor": "Dolaşım",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Joy",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Joy.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Suikastçı|Büyücü",
+        "Uzmanlık": "Takip|Anlık Hasar",
+        "Koridor": "Orman|EXP",
+        "Çıkış Yılı": "2022",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Julian",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Julian.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü|Dövüşçü",
+        "Uzmanlık": "Anlık Hasar|Takip",
+        "Koridor": "EXP|Orman",
+        "Çıkış Yılı": "2022",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Kadita",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Kadita.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü|Suikastçı",
+        "Uzmanlık": "Anlık Hasar|Takip",
+        "Koridor": "Orta|Dolaşım",
+        "Çıkış Yılı": "2018",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Kagura",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c9/Kagura.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü",
+        "Uzmanlık": "Anlık Hasar|Yenilenme",
+        "Koridor": "Orta|Orman",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Kaja",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Kaja.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Destek",
+        "Uzmanlık": "Takip|Başlatıcı",
+        "Koridor": "Dolaşım|EXP",
+        "Çıkış Yılı": "2018",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Karina",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Karina.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Suikastçı|Büyücü",
+        "Uzmanlık": "Takip|Anlık Hasar",
+        "Koridor": "Orman",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Karrie",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Karrie.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı",
+        "Uzmanlık": "Hasar|Anlık Hasar",
+        "Koridor": "Alt|Orman",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Khaleed",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Khaleed.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü",
+        "Uzmanlık": "Hasar|Yenilenme",
+        "Koridor": "EXP",
+        "Çıkış Yılı": "2020",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Khufra",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Khufra.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank",
+        "Uzmanlık": "Başlatıcı|Kitle Kontrol",
+        "Koridor": "Dolaşım",
+        "Çıkış Yılı": "2019",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Kimmy",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Kimmy.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı|Büyücü",
+        "Uzmanlık": "Karma Hasar|Hasar",
+        "Koridor": "Alt|Orman|Orta",
+        "Çıkış Yılı": "2018",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Lancelot",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Lancelot.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Suikastçı",
+        "Uzmanlık": "Takip|Anlık Hasar",
+        "Koridor": "Orman",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Lapu-Lapu",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Lapu-Lapu.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Suikastçı",
+        "Uzmanlık": "Anlık Hasar|Takip",
+        "Koridor": "EXP|Orman",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Layla",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Layla.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı",
+        "Uzmanlık": "Hasar|İttirme",
+        "Koridor": "Alt",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Leomord",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Leomord.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü",
+        "Uzmanlık": "Anlık Hasar|İttirme",
+        "Koridor": "EXP|Orman",
+        "Çıkış Yılı": "2018",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Lesley",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Lesley.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı|Suikastçı",
+        "Uzmanlık": "Anlık Hasar|Takip",
+        "Koridor": "Alt|Orta",
+        "Çıkış Yılı": "2018",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Ling",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Ling.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Suikastçı",
+        "Uzmanlık": "Takip|Anlık Hasar",
+        "Koridor": "Orman",
+        "Çıkış Yılı": "2019",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Lolita",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Lolita.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Tank|Destek",
+        "Uzmanlık": "Kitle Kontrol|İttirme",
+        "Koridor": "Dolaşım",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Lunox",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Lunox.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü",
+        "Uzmanlık": "Anlık Hasar|Hasar",
+        "Koridor": "Orta|Orman",
+        "Çıkış Yılı": "2018",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Luo Yi",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Luo_Yi.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü|Destek",
+        "Uzmanlık": "Kitle Kontrol|Dürtme",
+        "Koridor": "Orta|Dolaşım",
+        "Çıkış Yılı": "2020",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Lylia",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Lylia.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü",
+        "Uzmanlık": "Anlık Hasar|İttirme",
+        "Koridor": "Orta",
+        "Çıkış Yılı": "2019",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Martis",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Martis.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü",
+        "Uzmanlık": "Takip|Anlık Hasar",
+        "Koridor": "EXP|Orman",
+        "Çıkış Yılı": "2018",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Masha",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Masha.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Dövüşçü|Tank",
+        "Uzmanlık": "İttirme|Hasar",
+        "Koridor": "EXP|Dolaşım",
+        "Çıkış Yılı": "2019",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Mathilda",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Mathilda.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Destek|Suikastçı",
+        "Uzmanlık": "Koruma|Başlatıcı",
+        "Koridor": "Dolaşım",
+        "Çıkış Yılı": "2020",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Melissa",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Melissa.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı",
+        "Uzmanlık": "Hasar|Dürtme",
+        "Koridor": "Alt",
+        "Çıkış Yılı": "2022",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Minotaur",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Minotaur.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Destek",
+        "Uzmanlık": "Kitle Kontrol|Yenilenme",
+        "Koridor": "Dolaşım",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Minsitthar",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Minsitthar.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Destek",
+        "Uzmanlık": "Başlatıcı|Kitle Kontrol",
+        "Koridor": "EXP|Dolaşım",
+        "Çıkış Yılı": "2018",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Miya",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Miya.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı",
+        "Uzmanlık": "Takip|Hasar",
+        "Koridor": "Alt",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Moskov",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Moskov.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Nişancı",
+        "Uzmanlık": "Takip|Anlık Hasar",
+        "Koridor": "Alt|Orman",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Nana",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Nana.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü|Destek",
+        "Uzmanlık": "Dürtme|Kitle Kontrol",
+        "Koridor": "Orta",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Natan",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Natan.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Nişancı",
+        "Uzmanlık": "Anlık Hasar|Büyü Hasarı",
+        "Koridor": "Alt",
+        "Çıkış Yılı": "2021",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Natalia",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Natalia.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Suikastçı",
+        "Uzmanlık": "Takip|Anlık Hasar",
+        "Koridor": "Orman|Dolaşım",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Nolan",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Nolan.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Suikastçı",
+        "Uzmanlık": "Takip|Anlık Hasar",
+        "Koridor": "Orman",
+        "Çıkış Yılı": "2023",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Novaria",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Novaria.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü",
+        "Uzmanlık": "Anlık Hasar|Dürtme",
+        "Koridor": "Orta",
+        "Çıkış Yılı": "2023",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Odette",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Odette.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü",
+        "Uzmanlık": "Anlık Hasar|Dürtme",
+        "Koridor": "Orta",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Paquito",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Paquito.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü",
+        "Uzmanlık": "Takip|Anlık Hasar",
+        "Koridor": "EXP",
+        "Çıkış Yılı": "2021",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Pharsa",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Pharsa.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü",
+        "Uzmanlık": "Anlık Hasar|Dürtme",
+        "Koridor": "Orta",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Phoveus",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Phoveus.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü",
+        "Uzmanlık": "Takip|Kitle Kontrol",
+        "Koridor": "EXP",
+        "Çıkış Yılı": "2021",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Popol ve Kupa",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Popol_and_Kupa.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Nişancı",
+        "Uzmanlık": "İttirme|Anlık Hasar",
+        "Koridor": "Alt|Orman",
+        "Çıkış Yılı": "2020",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Rafaela",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Rafaela.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Destek",
+        "Uzmanlık": "Yenilenme|Koruma",
+        "Koridor": "Dolaşım",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Roger",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Roger.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Nişancı",
+        "Uzmanlık": "Takip|Anlık Hasar",
+        "Koridor": "Orman|Alt",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Yakın Dövüş|Menzilli"
+      }
+    },
+    {
+      "name": "Ruby",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Ruby.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Dövüşçü|Tank",
+        "Uzmanlık": "Kitle Kontrol|Yenilenme",
+        "Koridor": "EXP|Dolaşım",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Saber",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Saber.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Suikastçı",
+        "Uzmanlık": "Takip|Anlık Hasar",
+        "Koridor": "Orman|Dolaşım",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Selena",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Selena.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Suikastçı|Büyücü",
+        "Uzmanlık": "Takip|Anlık Hasar",
+        "Koridor": "Dolaşım|Orta",
+        "Çıkış Yılı": "2018",
+        "Saldırı Tipi": "Yakın Dövüş|Menzilli"
+      }
+    },
+    {
+      "name": "Silvanna",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Silvanna.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Dövüşçü|Büyücü",
+        "Uzmanlık": "Başlatıcı|Hasar",
+        "Koridor": "EXP|Dolaşım",
+        "Çıkış Yılı": "2019",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Terizla",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Terizla.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü",
+        "Uzmanlık": "Anlık Hasar|Kitle Kontrol",
+        "Koridor": "EXP",
+        "Çıkış Yılı": "2019",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Thamuz",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/ca/Thamuz.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü",
+        "Uzmanlık": "Yenilenme|Anlık Hasar",
+        "Koridor": "EXP|Orman",
+        "Çıkış Yılı": "2018",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Tigreal",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Tigreal.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank",
+        "Uzmanlık": "Kitle Kontrol|Başlatıcı",
+        "Koridor": "Dolaşım",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Uranus",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Uranus.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Dövüşçü",
+        "Uzmanlık": "Yenilenme|Dürtme",
+        "Koridor": "EXP|Orman",
+        "Çıkış Yılı": "2018",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Vale",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Vale.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü",
+        "Uzmanlık": "Anlık Hasar|Kitle Kontrol",
+        "Koridor": "Orta|Dolaşım",
+        "Çıkış Yılı": "2019",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Valentina",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Valentina.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü",
+        "Uzmanlık": "Anlık Hasar|Taklit",
+        "Koridor": "Orta|Orman|EXP",
+        "Çıkış Yılı": "2021",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Valir",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Valir.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü",
+        "Uzmanlık": "Dürtme|Kitle Kontrol",
+        "Koridor": "Orta|Dolaşım",
+        "Çıkış Yılı": "2018",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Vexana",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Vexana.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü",
+        "Uzmanlık": "Kitle Kontrol|Anlık Hasar",
+        "Koridor": "Orta",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Wanwan",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/Wanwan.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı",
+        "Uzmanlık": "Takip|Anlık Hasar",
+        "Koridor": "Alt",
+        "Çıkış Yılı": "2019",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "X.Borg",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/98/X.Borg.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü",
+        "Uzmanlık": "Yenilenme|Anlık Hasar",
+        "Koridor": "EXP|Orman",
+        "Çıkış Yılı": "2019",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Xavier",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/7/70/Xavier.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü",
+        "Uzmanlık": "Hasar|Kitle Kontrol",
+        "Koridor": "Orta",
+        "Çıkış Yılı": "2022",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Yi Sun-shin",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Yi_Sun-shin.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Suikastçı|Nişancı",
+        "Uzmanlık": "Takip|Hasar",
+        "Koridor": "Orman",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Yakın Dövüş|Menzilli"
+      }
+    },
+    {
+      "name": "Yu Zhong",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Yu_Zhong.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü",
+        "Uzmanlık": "Yenilenme|Hasar",
+        "Koridor": "EXP",
+        "Çıkış Yılı": "2020",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Zhask",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Zhask.png",
+      "attributes": {
+        "Cinsiyet": "Diğer",
+        "Rol": "Büyücü",
+        "Uzmanlık": "İttirme|Hasar",
+        "Koridor": "Orta|Alt",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Menzilli"
+      }
+    },
+    {
+      "name": "Zilong",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Zilong.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Suikastçı",
+        "Uzmanlık": "Takip|Anlık Hasar",
+        "Koridor": "EXP|Orman",
+        "Çıkış Yılı": "2016",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Sun",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Sun.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü",
+        "Uzmanlık": "İttirme|Hasar",
+        "Koridor": "EXP|Orman",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Yin",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Yin.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Suikastçı",
+        "Uzmanlık": "Anlık Hasar|Takip",
+        "Koridor": "EXP|Orman",
+        "Çıkış Yılı": "2022",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Yve",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Yve.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü",
+        "Uzmanlık": "Dürtme|Kitle Kontrol",
+        "Koridor": "Orta",
+        "Çıkış Yılı": "2021",
+        "Saldırı Tipi": "Menzilli"
+      }
+    }
+  ]
+}

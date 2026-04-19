@@ -1,0 +1,2054 @@
+{
+  "gameId": "lol",
+  "gameName": "League of Legends",
+  "attributesToCompare": [
+    "Cinsiyet",
+    "Rol",
+    "Bölge",
+    "Menzil Tipi",
+    "Çıkış Yılı",
+    "Kaynak"
+  ],
+  "entities": [
+    {
+      "name": "Aatrox",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Aatrox.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü",
+        "Bölge": "Runeterra|Shurima",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2013",
+        "Kaynak": "Yok"
+      }
+    },
+    {
+      "name": "Ahri",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Ahri.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü|Suikastçı",
+        "Bölge": "Ionia",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Akali",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Akali.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Suikastçı",
+        "Bölge": "Ionia",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Enerji"
+      }
+    },
+    {
+      "name": "Akshan",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Akshan.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Nişancı|Suikastçı",
+        "Bölge": "Shurima",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2021",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Alistar",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Alistar.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Destek",
+        "Bölge": "Runeterra",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Amumu",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Amumu.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Büyücü",
+        "Bölge": "Shurima",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Anivia",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Anivia.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü|Destek",
+        "Bölge": "Freljord",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Annie",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Annie.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü",
+        "Bölge": "Runeterra",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Aphelios",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Aphelios.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Nişancı",
+        "Bölge": "Targon",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2019",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Ashe",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Ashe.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı|Destek",
+        "Bölge": "Freljord",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Aurelion Sol",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/AurelionSol.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü",
+        "Bölge": "Runeterra|Targon",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2016",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Azir",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Azir.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü|Nişancı",
+        "Bölge": "Shurima",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2014",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Bard",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Bard.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Destek|Büyücü",
+        "Bölge": "Runeterra|Targon",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2015",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Bel'Veth",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Belveth.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Dövüşçü",
+        "Bölge": "Hiçlik",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2022",
+        "Kaynak": "Yok"
+      }
+    },
+    {
+      "name": "Blitzcrank",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Blitzcrank.png",
+      "attributes": {
+        "Cinsiyet": "Diğer",
+        "Rol": "Tank|Destek",
+        "Bölge": "Zaun",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Brand",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Brand.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü",
+        "Bölge": "Runeterra|Freljord",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Braum",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Braum.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Destek|Tank",
+        "Bölge": "Freljord",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2014",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Briar",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Briar.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Dövüşçü|Suikastçı",
+        "Bölge": "Noxus",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2023",
+        "Kaynak": "Can"
+      }
+    },
+    {
+      "name": "Caitlyn",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Caitlyn.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı",
+        "Bölge": "Piltover",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Camille",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Camille.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Dövüşçü|Suikastçı",
+        "Bölge": "Piltover",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2016",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Cassiopeia",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Cassiopeia.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü",
+        "Bölge": "Noxus|Shurima",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Cho'Gath",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Chogath.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Büyücü",
+        "Bölge": "Hiçlik",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Corki",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Corki.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü|Nişancı",
+        "Bölge": "Bandle Şehri",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Darius",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Darius.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Tank",
+        "Bölge": "Noxus",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2012",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Diana",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Diana.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Dövüşçü|Büyücü",
+        "Bölge": "Targon",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2012",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Dr. Mundo",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/DrMundo.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Tank",
+        "Bölge": "Zaun",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Can"
+      }
+    },
+    {
+      "name": "Draven",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Draven.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Nişancı",
+        "Bölge": "Noxus",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2012",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Ekko",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Ekko.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Suikastçı|Dövüşçü",
+        "Bölge": "Zaun",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2015",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Elise",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Elise.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü|Dövüşçü",
+        "Bölge": "Noxus|Gölge Adalar",
+        "Menzil Tipi": "Değişken",
+        "Çıkış Yılı": "2012",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Evelynn",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Evelynn.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Suikastçı|Büyücü",
+        "Bölge": "Runeterra",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Ezreal",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Ezreal.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Nişancı|Büyücü",
+        "Bölge": "Piltover",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Fiddlesticks",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Fiddlesticks.png",
+      "attributes": {
+        "Cinsiyet": "Diğer",
+        "Rol": "Büyücü|Destek",
+        "Bölge": "Runeterra",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Fiora",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Fiora.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Dövüşçü|Suikastçı",
+        "Bölge": "Demacia",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2012",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Fizz",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Fizz.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Suikastçı|Dövüşçü",
+        "Bölge": "Bilgewater",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Galio",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Galio.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Büyücü",
+        "Bölge": "Demacia",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Gangplank",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Gangplank.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü",
+        "Bölge": "Bilgewater",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Garen",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Garen.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Tank",
+        "Bölge": "Demacia",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Yok"
+      }
+    },
+    {
+      "name": "Gnar",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Gnar.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Tank",
+        "Bölge": "Freljord",
+        "Menzil Tipi": "Değişken",
+        "Çıkış Yılı": "2014",
+        "Kaynak": "Öfke"
+      }
+    },
+    {
+      "name": "Gragas",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Gragas.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Büyücü",
+        "Bölge": "Freljord",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Graves",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Graves.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Nişancı",
+        "Bölge": "Bilgewater",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Gwen",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Gwen.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Dövüşçü|Suikastçı",
+        "Bölge": "Gölge Adalar|Camavor",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2021",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Hecarim",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Hecarim.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Tank",
+        "Bölge": "Gölge Adalar",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2012",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Heimerdinger",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Heimerdinger.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü|Destek",
+        "Bölge": "Piltover|Bandle Şehri",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Hwei",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Hwei.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü",
+        "Bölge": "Ionia",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2023",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Illaoi",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Illaoi.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Dövüşçü|Tank",
+        "Bölge": "Bilgewater",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2015",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Irelia",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Irelia.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Dövüşçü|Suikastçı",
+        "Bölge": "Ionia",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Ivern",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Ivern.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Destek|Büyücü",
+        "Bölge": "Ionia|Freljord",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2016",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Janna",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Janna.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Destek|Büyücü",
+        "Bölge": "Zaun|Shurima",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Jarvan IV",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/JarvanIV.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Dövüşçü",
+        "Bölge": "Demacia",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Jax",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Jax.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Suikastçı",
+        "Bölge": "Runeterra|Icathia|Shurima",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Jayce",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Jayce.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Nişancı",
+        "Bölge": "Piltover",
+        "Menzil Tipi": "Değişken",
+        "Çıkış Yılı": "2012",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Jhin",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Jhin.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Nişancı|Suikastçı",
+        "Bölge": "Ionia",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2016",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Jinx",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Jinx.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı",
+        "Bölge": "Zaun",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2013",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "K'Sante",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/KSante.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Dövüşçü",
+        "Bölge": "Shurima",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2022",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Kai'Sa",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Kaisa.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı|Suikastçı",
+        "Bölge": "Hiçlik|Shurima",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2018",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Kalista",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Kalista.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı",
+        "Bölge": "Gölge Adalar|Camavor",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2014",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Karma",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Karma.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü|Destek",
+        "Bölge": "Ionia",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Karthus",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Karthus.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü",
+        "Bölge": "Gölge Adalar|Noxus",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Kassadin",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Kassadin.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Suikastçı|Büyücü",
+        "Bölge": "Hiçlik|Shurima",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Katarina",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Katarina.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Suikastçı|Büyücü",
+        "Bölge": "Noxus",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Yok"
+      }
+    },
+    {
+      "name": "Kayle",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Kayle.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Dövüşçü|Destek",
+        "Bölge": "Demacia|Targon",
+        "Menzil Tipi": "Değişken",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Kayn",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Kayn.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Suikastçı",
+        "Bölge": "Ionia|Noxus|Runeterra|Shurima",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2017",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Kennen",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Kennen.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü|Nişancı",
+        "Bölge": "Ionia|Bandle Şehri",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Enerji"
+      }
+    },
+    {
+      "name": "Kha'Zix",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Khazix.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Suikastçı",
+        "Bölge": "Hiçlik",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2012",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Kindred",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Kindred.png",
+      "attributes": {
+        "Cinsiyet": "Diğer",
+        "Rol": "Nişancı",
+        "Bölge": "Runeterra|Gölge Adalar",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2015",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Kled",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Kled.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Tank",
+        "Bölge": "Noxus|Bandle Şehri",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2016",
+        "Kaynak": "Cesaret"
+      }
+    },
+    {
+      "name": "Kog'Maw",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/KogMaw.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Nişancı|Büyücü",
+        "Bölge": "Hiçlik",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "LeBlanc",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Leblanc.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Suikastçı|Büyücü",
+        "Bölge": "Noxus",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Lee Sin",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/LeeSin.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Suikastçı",
+        "Bölge": "Ionia",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Enerji"
+      }
+    },
+    {
+      "name": "Leona",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Leona.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Tank|Destek",
+        "Bölge": "Targon",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Lillia",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Lillia.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Dövüşçü|Büyücü",
+        "Bölge": "Ionia",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2020",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Lissandra",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Lissandra.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü",
+        "Bölge": "Freljord",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2013",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Lucian",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Lucian.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Nişancı",
+        "Bölge": "Demacia|Gölge Adalar",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2013",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Lulu",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Lulu.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Destek|Büyücü",
+        "Bölge": "Bandle Şehri",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2012",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Lux",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Lux.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü|Destek",
+        "Bölge": "Demacia",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Malphite",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Malphite.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Dövüşçü",
+        "Bölge": "Ixtal|Shurima",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Malzahar",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Malzahar.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü|Suikastçı",
+        "Bölge": "Hiçlik|Shurima",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Maokai",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Maokai.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Büyücü",
+        "Bölge": "Gölge Adalar",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Master Yi",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/MasterYi.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Suikastçı|Dövüşçü",
+        "Bölge": "Ionia",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Milio",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Milio.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Destek",
+        "Bölge": "Ixtal",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2023",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Miss Fortune",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/MissFortune.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı",
+        "Bölge": "Bilgewater",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Mordekaiser",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Mordekaiser.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü",
+        "Bölge": "Noxus|Gölge Adalar",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Kalkan"
+      }
+    },
+    {
+      "name": "Morgana",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Morgana.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü|Destek",
+        "Bölge": "Demacia|Targon",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Naafiri",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Naafiri.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Suikastçı",
+        "Bölge": "Shurima",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2023",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Nami",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Nami.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Destek|Büyücü",
+        "Bölge": "Runeterra",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2012",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Nasus",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Nasus.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Tank",
+        "Bölge": "Shurima",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Nautilus",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Nautilus.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Destek",
+        "Bölge": "Bilgewater",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2012",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Neeko",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Neeko.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü|Destek",
+        "Bölge": "Ixtal",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2018",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Nidalee",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Nidalee.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Suikastçı|Büyücü",
+        "Bölge": "Ixtal",
+        "Menzil Tipi": "Değişken",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Nilah",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Nilah.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Dövüşçü|Suikastçı",
+        "Bölge": "Bilgewater",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2022",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Nocturne",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Nocturne.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Suikastçı|Dövüşçü",
+        "Bölge": "Runeterra",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Nunu ve Willump",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Nunu.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Dövüşçü",
+        "Bölge": "Freljord",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Olaf",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Olaf.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Tank",
+        "Bölge": "Freljord",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Orianna",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Orianna.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü|Destek",
+        "Bölge": "Piltover",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Ornn",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Ornn.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Dövüşçü",
+        "Bölge": "Freljord",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2017",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Pantheon",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Pantheon.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Suikastçı",
+        "Bölge": "Targon",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Poppy",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Poppy.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Tank|Dövüşçü",
+        "Bölge": "Demacia",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Pyke",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Pyke.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Destek|Suikastçı",
+        "Bölge": "Bilgewater",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2018",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Qiyana",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Qiyana.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Suikastçı|Dövüşçü",
+        "Bölge": "Ixtal",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2019",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Quinn",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Quinn.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı|Suikastçı",
+        "Bölge": "Demacia",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2013",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Rakan",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Rakan.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Destek",
+        "Bölge": "Ionia",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2017",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Rammus",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Rammus.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Dövüşçü",
+        "Bölge": "Shurima",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Rek'Sai",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/RekSai.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Dövüşçü",
+        "Bölge": "Hiçlik|Shurima",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2014",
+        "Kaynak": "Öfke"
+      }
+    },
+    {
+      "name": "Rell",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Rell.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Tank|Destek",
+        "Bölge": "Noxus",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2020",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Renata Glasc",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Renata.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Destek|Büyücü",
+        "Bölge": "Zaun",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2022",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Renekton",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Renekton.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Tank",
+        "Bölge": "Shurima",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Öfke"
+      }
+    },
+    {
+      "name": "Rengar",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Rengar.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Suikastçı|Dövüşçü",
+        "Bölge": "Ixtal|Shurima",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2012",
+        "Kaynak": "Vahşet"
+      }
+    },
+    {
+      "name": "Riven",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Riven.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Dövüşçü|Suikastçı",
+        "Bölge": "Noxus|Ionia",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Yok"
+      }
+    },
+    {
+      "name": "Rumble",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Rumble.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Büyücü",
+        "Bölge": "Bandle Şehri",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Isı"
+      }
+    },
+    {
+      "name": "Ryze",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Ryze.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü|Dövüşçü",
+        "Bölge": "Runeterra",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Samira",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Samira.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı",
+        "Bölge": "Noxus|Shurima",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2020",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Sejuani",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Sejuani.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Tank|Dövüşçü",
+        "Bölge": "Freljord",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2012",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Senna",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Senna.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı|Destek",
+        "Bölge": "Gölge Adalar",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2019",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Seraphine",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Seraphine.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü|Destek",
+        "Bölge": "Piltover|Zaun",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2020",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Sett",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Sett.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Tank",
+        "Bölge": "Ionia",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2020",
+        "Kaynak": "Cesaret"
+      }
+    },
+    {
+      "name": "Shaco",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Shaco.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Suikastçı",
+        "Bölge": "Runeterra",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Shen",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Shen.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Dövüşçü",
+        "Bölge": "Ionia",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Enerji"
+      }
+    },
+    {
+      "name": "Shyvana",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Shyvana.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Dövüşçü|Tank",
+        "Bölge": "Demacia",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Öfke"
+      }
+    },
+    {
+      "name": "Singed",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Singed.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Dövüşçü",
+        "Bölge": "Zaun|Piltover",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Sion",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Sion.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Dövüşçü",
+        "Bölge": "Noxus",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Sivir",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Sivir.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı",
+        "Bölge": "Shurima",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Skarner",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Skarner.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Tank",
+        "Bölge": "Ixtal|Shurima",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Smolder",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Smolder.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Nişancı",
+        "Bölge": "Camavor",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2024",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Sona",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Sona.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Destek|Büyücü",
+        "Bölge": "Demacia|Ionia",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Soraka",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Soraka.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Destek|Büyücü",
+        "Bölge": "Targon|Ionia",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Swain",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Swain.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü|Dövüşçü",
+        "Bölge": "Noxus",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Sylas",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Sylas.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü|Suikastçı",
+        "Bölge": "Demacia|Freljord",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2019",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Syndra",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Syndra.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü",
+        "Bölge": "Ionia",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2012",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Tahm Kench",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/TahmKench.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Destek|Tank",
+        "Bölge": "Runeterra|Bilgewater",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2015",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Taliyah",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Taliyah.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü",
+        "Bölge": "Shurima|Ionia",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2016",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Talon",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Talon.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Suikastçı",
+        "Bölge": "Noxus",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Taric",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Taric.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Destek|Dövüşçü",
+        "Bölge": "Targon|Demacia|Runeterra",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Teemo",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Teemo.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Nişancı|Suikastçı",
+        "Bölge": "Bandle Şehri",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Thresh",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Thresh.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Destek|Dövüşçü",
+        "Bölge": "Gölge Adalar",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2013",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Tristana",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Tristana.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı|Suikastçı",
+        "Bölge": "Bandle Şehri",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Trundle",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Trundle.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Tank",
+        "Bölge": "Freljord",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Tryndamere",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Tryndamere.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Suikastçı",
+        "Bölge": "Freljord",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Öfke"
+      }
+    },
+    {
+      "name": "Twisted Fate",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/TwistedFate.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü",
+        "Bölge": "Bilgewater",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Twitch",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Twitch.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Nişancı|Suikastçı",
+        "Bölge": "Zaun",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Udyr",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Udyr.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Tank",
+        "Bölge": "Freljord|Ionia",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Urgot",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Urgot.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Tank",
+        "Bölge": "Noxus|Zaun",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Varus",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Varus.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Nişancı|Büyücü",
+        "Bölge": "Runeterra|Ionia|Shurima",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2012",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Vayne",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Vayne.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı|Suikastçı",
+        "Bölge": "Demacia",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Veigar",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Veigar.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü",
+        "Bölge": "Bandle Şehri|Gölge Adalar",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Vel'Koz",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Velkoz.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü",
+        "Bölge": "Hiçlik",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2014",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Vex",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Vex.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü",
+        "Bölge": "Bandle Şehri|Gölge Adalar",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2021",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Vi",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Vi.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Dövüşçü|Suikastçı",
+        "Bölge": "Piltover|Zaun",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2012",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Viego",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Viego.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Suikastçı|Dövüşçü",
+        "Bölge": "Camavor|Gölge Adalar",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2021",
+        "Kaynak": "Yok"
+      }
+    },
+    {
+      "name": "Viktor",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Viktor.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü",
+        "Bölge": "Zaun|Piltover",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Vladimir",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Vladimir.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü",
+        "Bölge": "Noxus|Camavor|Gölge Adalar",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Can"
+      }
+    },
+    {
+      "name": "Volibear",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Volibear.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Tank",
+        "Bölge": "Freljord",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Warwick",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Warwick.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Tank",
+        "Bölge": "Zaun",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Wukong",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/MonkeyKing.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Tank",
+        "Bölge": "Ionia",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Xayah",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Xayah.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı",
+        "Bölge": "Ionia",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2017",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Xerath",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Xerath.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü",
+        "Bölge": "Shurima",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Xin Zhao",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/XinZhao.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Suikastçı",
+        "Bölge": "Demacia|Ionia|Noxus",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2010",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Yasuo",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Yasuo.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Suikastçı",
+        "Bölge": "Ionia",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2013",
+        "Kaynak": "Akış"
+      }
+    },
+    {
+      "name": "Yone",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Yone.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Suikastçı|Dövüşçü",
+        "Bölge": "Ionia",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2020",
+        "Kaynak": "Akış"
+      }
+    },
+    {
+      "name": "Yorick",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Yorick.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Tank",
+        "Bölge": "Gölge Adalar",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2011",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Yuumi",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Yuumi.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Destek|Büyücü",
+        "Bölge": "Bandle Şehri",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2019",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Zac",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Zac.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Tank|Dövüşçü",
+        "Bölge": "Zaun",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2013",
+        "Kaynak": "Can"
+      }
+    },
+    {
+      "name": "Zed",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Zed.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Suikastçı",
+        "Bölge": "Ionia",
+        "Menzil Tipi": "Yakın Dövüş",
+        "Çıkış Yılı": "2012",
+        "Kaynak": "Enerji"
+      }
+    },
+    {
+      "name": "Zeri",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Zeri.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Nişancı",
+        "Bölge": "Zaun",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2022",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Ziggs",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Ziggs.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Büyücü",
+        "Bölge": "Zaun|Bandle Şehri",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2012",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Zilean",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Zilean.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Destek|Büyücü",
+        "Bölge": "Runeterra|Icathia|Shurima",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2009",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Zoe",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Zoe.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü|Destek",
+        "Bölge": "Targon|Runeterra",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2017",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Zyra",
+      "imageUrl": "https://ddragon.leagueoflegends.com/cdn/14.21.1/img/champion/Zyra.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü|Destek",
+        "Bölge": "Ixtal|Shurima",
+        "Menzil Tipi": "Menzilli",
+        "Çıkış Yılı": "2012",
+        "Kaynak": "Mana"
+      }
+    },
+    {
+      "name": "Sun",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Sun.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü",
+        "Uzmanlık": "İttirme|Hasar",
+        "Koridor": "EXP|Orman",
+        "Çıkış Yılı": "2017",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Yin",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Yin.png",
+      "attributes": {
+        "Cinsiyet": "Erkek",
+        "Rol": "Dövüşçü|Suikastçı",
+        "Uzmanlık": "Anlık Hasar|Takip",
+        "Koridor": "EXP|Orman",
+        "Çıkış Yılı": "2022",
+        "Saldırı Tipi": "Yakın Dövüş"
+      }
+    },
+    {
+      "name": "Yve",
+      "imageUrl": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Yve.png",
+      "attributes": {
+        "Cinsiyet": "Kadın",
+        "Rol": "Büyücü",
+        "Uzmanlık": "Dürtme|Kitle Kontrol",
+        "Koridor": "Orta",
+        "Çıkış Yılı": "2021",
+        "Saldırı Tipi": "Menzilli"
+      }
+    }
+  ]
+}
