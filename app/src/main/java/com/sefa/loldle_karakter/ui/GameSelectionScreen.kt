@@ -119,20 +119,22 @@ fun GameSelectionScreen(
             verticalArrangement = Arrangement.Center,
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
+            val mainMenuButtonModifier = Modifier
+                .fillMaxWidth()
+                .height(50.dp)
+
             Button(
                 onClick = { mainViewModel.openGamePanel() },
-                modifier = Modifier
-                    .fillMaxWidth()
-                    .height(50.dp)
-                    .padding(bottom = 15.dp)
+                modifier = mainMenuButtonModifier
             ) {
                 Text("OYUNLAR")
             }
+
+            Spacer(modifier = Modifier.height(15.dp))
+
             Button(
                 onClick = { mainViewModel.openAnimePanel() },
-                modifier = Modifier
-                    .fillMaxWidth()
-                    .height(50.dp)
+                modifier = mainMenuButtonModifier
             ) {
                 Text("ANİMELER")
             }
@@ -145,7 +147,7 @@ fun GameSelectionScreen(
         ) {
             Row(verticalAlignment = Alignment.CenterVertically) {
                 PanelButton(
-                    text = "LOLDLE (Alıştırma)",
+                    text = "LOLDLE",
                     onClick = {
                         onGameSelected("lol-practice")
                         mainViewModel.closePanels()
@@ -166,7 +168,7 @@ fun GameSelectionScreen(
 
             Row(verticalAlignment = Alignment.CenterVertically) {
                 PanelButton(
-                    text = "MLBBDLE (Alıştırma)",
+                    text = "MLBBDLE",
                     onClick = {
                         onGameSelected("mlbb-practice")
                         mainViewModel.closePanels()

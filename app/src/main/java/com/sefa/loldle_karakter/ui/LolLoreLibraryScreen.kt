@@ -12,6 +12,8 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.material.icons.Icons
@@ -20,6 +22,7 @@ import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.Divider
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
@@ -27,6 +30,9 @@ import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
@@ -50,6 +56,12 @@ fun LolLoreLibraryScreen(
     val selectedChampion by viewModel.selectedChampion
     val selectedDetail by viewModel.selectedChampionDetail
     val errorMessage by viewModel.errorMessage
+    var searchQuery by remember { mutableStateOf("") }
+    val filteredChampions = champions.filter { champ ->
+        searchQuery.isBlank() ||
+            champ.name.contains(searchQuery, ignoreCase = true) ||
+            champ.title.contains(searchQuery, ignoreCase = true)
+    }
 
     LaunchedEffect(Unit) {
         viewModel.loadChampionsIfNeeded()
@@ -126,8 +138,18 @@ fun LolLoreLibraryScreen(
                         modifier = Modifier.padding(bottom = 8.dp)
                     )
 
+                    OutlinedTextField(
+                        value = searchQuery,
+                        onValueChange = { searchQuery = it },
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .padding(bottom = 8.dp),
+                        singleLine = true,
+                        label = { Text("Şampiyon ara") }
+                    )
+
                     LazyColumn {
-                        items(champions) { champ ->
+                        items(filteredChampions) { champ ->
                             ChampionRow(
                                 name = champ.name,
                                 title = champ.title,
@@ -148,6 +170,7 @@ fun LolLoreLibraryScreen(
                             MaterialTheme.colorScheme.surface.copy(alpha = 0.95f),
                             shape = MaterialTheme.shapes.medium
                         )
+                        .verticalScroll(rememberScrollState())
                         .padding(12.dp)
                 ) {
                     if (selectedChampion == null) {
